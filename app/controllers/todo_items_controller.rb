@@ -2,6 +2,7 @@ class TodoItemsController < ApplicationController
     before_action :find_todo_list
     
   def index
+     
   end
     
     def complete
